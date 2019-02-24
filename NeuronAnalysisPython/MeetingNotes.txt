@@ -1,0 +1,24 @@
+elpos-> It seemed that I wrote it before!
+getAbove-> 
+(1) RMSFit = fit(x,RMS','poly1') no corresponding equvlant of fit (numpy polyfit)
+(2) slope_scalar = RMSFit.p1; p1??
+
+isNotValid-> problem = max(pulsewidth(above, time, 'Polarity', 'Positive'))>limit || max(pulsewidth(above, time, 'Polarity', 'Positive'))==limit;
+
+There's no pulsewidth in python
+
+Neuron Analysis L169-174, 177- 186 normally python cannot assign empty array!
+Clean spkmap I don't understand why Excl=[301]
+also the use of spikemap=?
+L275 #Which data needed to be saved again?
+
+SpikeMap 
+L27-31 container has no translation
+
+extract_extracellu
+xaux=find...+w_pre+l
+
+
+
+
+
